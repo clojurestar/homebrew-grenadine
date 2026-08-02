@@ -10,5 +10,5 @@ Works on Linux and macOS, on Intel and ARM.
 
 ```sh
 brew install clojurestar/grenadine/grenadine
-brew install clojurestar/grenadine/grenadine@0.1.2
+brew install clojurestar/grenadine/grenadine@0.1.3
 ```
