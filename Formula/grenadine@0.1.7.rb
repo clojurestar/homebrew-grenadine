@@ -1,4 +1,4 @@
-class Grenadine < Formula
+class GrenadineAT017 < Formula
   desc "Portable Maven dependency resolver for Clojure dialects"
   homepage "https://clojurestar.github.io/grenadine/"
   version "0.1.7"
